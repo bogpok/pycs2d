@@ -1,6 +1,8 @@
 # pycs2d
 python version of CS2D - a two-dimensional conversion of the popular game Counter-Strike by Valve®.
 
+<img src="/demo.gif" height="400">
+
 
 # Stages
 
