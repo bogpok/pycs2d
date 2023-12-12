@@ -1,4 +1,4 @@
-Author: bogpok
+""" Author: bogpok """
 import pygame as pg
 from config import *
 import math as m
