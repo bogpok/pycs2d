@@ -1,0 +1,10 @@
+# game settings
+
+WIDTH = 1280
+HEIGHT = 768
+
+FPS = 60
+TILESIZE = 64
+TILESETSIZE = (int(WIDTH/TILESIZE), int(HEIGHT/TILESIZE))
+
+
